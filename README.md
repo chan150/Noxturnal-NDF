@@ -1,3 +1,8 @@
+# Compile dart code of Nox
+```shell
+dart compile exe .\lib\main.dart -o ndf_viewer.exe
+```
+
 # Nox
  
 Utilities (Matlab) for accessing Noxmedical, Noxturnal  https://noxmedical.com/products/noxturnal-software/ data files .ndf.  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND... (MIT license)
